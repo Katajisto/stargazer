@@ -13,3 +13,8 @@ It's also a excercise in optimizing programs. I hope to make it as fast as possi
 ### For a smoother and faster experience
   cargo build --release
   ./target/release/stargazer
+
+## How to use
+- WASD for navigating
+- Q and E for zooming
+- R to render a high resolution image
